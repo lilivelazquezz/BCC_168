@@ -1,13 +1,13 @@
 # MMART 168
 
-### Variables
+ Variables
 
-### Arrays and Methods
+ [Arrays and Methods ] (https://github.com/lilivelazquezz/BCC_168/blob/main/Arrays/script.js)
 
-### Loops
+Loops
 
-### IfElse
+ IfElse
 
-### Functions
+Functions
 
-### Objects
+Objects
