@@ -6,9 +6,12 @@
 
  [Objects ](https://github.com/lilivelazquezz/BCC_168/blob/main/Objects/script.js)
 
-Loops
+[Loops ](https://github.com/lilivelazquezz/BCC_168/blob/main/Loops/script.js)
 
  IfElse
 
 Functions
 
+
+[!TIP]
+[Template](https://github.com/lilivelazquezz/BCC_168/tree/main/Template)
