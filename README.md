@@ -8,7 +8,7 @@
 
 [Loops ](https://github.com/lilivelazquezz/BCC_168/blob/main/Loops/script.js)
 
- IfElse
+[Conditionals](https://github.com/lilivelazquezz/BCC_168/tree/main/Conditionals)
 
 Functions
 
