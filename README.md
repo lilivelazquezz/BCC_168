@@ -10,7 +10,7 @@
 
 [Conditionals](https://github.com/lilivelazquezz/BCC_168/tree/main/Conditionals)
 
-Functions
+[Functions](https://github.com/lilivelazquezz/BCC_168/tree/main/Functions)
 
 
 >[!TIP]
