@@ -8,7 +8,7 @@ document.querySelector("#buttons").addEventListener("click", event => {
   console.log(value);
 
   //Step 1:
-  // create a variable array Rock, Papper, Sicssors
+  // create a variable array Rock, Paper, Sicssors
   // generate a radom number 0-2 index 0, index 1, index 2
   // console.log
 
